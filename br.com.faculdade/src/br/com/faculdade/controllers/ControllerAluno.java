@@ -46,7 +46,7 @@ public class ControllerAluno {
 				break;
 				}
 			default : {
-				JOptionPane.showMessageDialog(null, "O Cidadão, Digite apenas os números informados","Erro", 1);
+				JOptionPane.showMessageDialog(null, "O Cara, Digite apenas os números informados","Erro", 1);
 				}
 			}
 		}
